@@ -1,6 +1,5 @@
 # CDM-AIDS-Clinical-Data-Management
 Clinical Data Management portfolio project demonstrating data cleaning, validation, query management, SQL, Excel analysis, and clinical data quality checks.
-# CDM-AIDS-Clinical-Data-Management
 
 A end-to-end **Clinical Data Management (CDM)** portfolio project on a simulated AIDS clinical trial dataset, covering data cleaning, validation, query management, SQL verification, and a final simulated database lock.
 
